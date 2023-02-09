@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.EmployeeTracker" parent="android:Theme.Material.Light.NoActionBar">
+
+    </style>
+
+
+    <style name="DialogTheme" parent="android:Theme.Material.Dialog">
+
+        <item name="android:colorAccent">#FFA44200</item>
+        <item name="android:textColorPrimary">#FF2A2E45</item>
+        <item name="android:background">#FFBFACAA</item>
+    </style>
+</resources>

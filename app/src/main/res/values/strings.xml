@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EmployeeTracker</string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+</resources>
